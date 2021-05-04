@@ -3,7 +3,7 @@ Matt Surelee's insult generator
 
 run insults.py for a savage burn
 
-run insults.py <integer> for multiple savage burns.
+run insults.py "NUMBER OF INSULTS" for multiple savage burns.
 
 ```
 $ python insults.py
